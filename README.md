@@ -1,6 +1,6 @@
 # OneBoard
 
-OneBoard is a 19 key keyboard with a rotary encoder. It uses QMK firmware running on a RP2040.
+OneBoard is a 20(ish) percent keyboard with a rotary encoder. It uses QMK firmware running on a RP2040.
 
 
 ## Features:
@@ -26,7 +26,7 @@ PCB
 
 
 ## Firmware Overview
-This hackpad uses [QMK](https://qmk.fm/) firmware for everything. 
+This keyboard uses [QMK](https://qmk.fm/) firmware for everything. 
 
 - The rotary encoder changes volume, press the encoder to pause media.
 - Basically acts like the left side of a normal keyboard.
@@ -38,8 +38,9 @@ All the materials needed for this hackpad:
 - 19x DSA Keycaps (16 supplied by Hackclub)
 - 4x M3x5x4 Heatset inserts
 - 4x M3x16mm SHCS Bolts
-- 20x 1N4148 DO-35 Diodes.
-- 1x EC11 Rotary Encoder
-- 1x XIAO RP2040
+- 20x 1N4148 DO-35 Diodes. (16 supplied by Hackclub)
+- 1x EC11 Rotary Encoder (supplied by Hackclub)
+- 1x XIAO RP2040 (supplied by Hackclub)
 - 1x Case (2 printed parts)
+
 
