@@ -38,7 +38,7 @@
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_5755f5ff)
+			(layerselection 0x00000000_00000000_5555555d_d757f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -59,7 +59,7 @@
 			(pdf_metadata yes)
 			(pdf_single_document no)
 			(dxfpolygonmode yes)
-			(dxfimperialunits yes)
+			(dxfimperialunits no)
 			(dxfusepcbnewfont yes)
 			(psnegative no)
 			(psa4output no)
@@ -70,11 +70,11 @@
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
 			(subtractmaskfromsilk no)
-			(outputformat 1)
+			(outputformat 3)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "C:/Users/bobby/Downloads/")
 		)
 	)
 	(net 0 "")
@@ -14710,7 +14710,7 @@
 	(gr_text "Seeed Studio"
 		(at 212.2225 60.66 0)
 		(layer "F.SilkS")
-		(uuid "86983cc6-db66-407b-8657-d8a1a6aa1f57")
+		(uuid "cd8d74be-c18d-4f3b-8298-7419d7e72963")
 		(effects
 			(font
 				(size 1 1)
@@ -14721,7 +14721,7 @@
 	(gr_text "XIAO"
 		(at 212.2225 62.66 0)
 		(layer "F.SilkS")
-		(uuid "0e8029a0-6e90-4de9-bc7a-552a5d1555c9")
+		(uuid "8cdcb411-e66a-456a-a71c-d04d762f49af")
 		(effects
 			(font
 				(size 1 1)
