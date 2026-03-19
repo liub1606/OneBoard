@@ -29,7 +29,7 @@ PCB
 This keyboard uses [QMK](https://qmk.fm/) firmware for everything. 
 
 - The rotary encoder changes volume, press the encoder to pause media.
-- Basically acts like the left side of a normal keyboard.
+- Basically acts like the left side of a full sized keyboard.
 
 
 ## BOM:
