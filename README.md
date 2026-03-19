@@ -22,7 +22,7 @@ Schematic
 <img src=Assets/schematic.png alt="Schematic" width="300"/>
 
 PCB
-<img src=assets/PCB.png alt="Schematic" width="300"/>
+<img src=Assets/PCB.png alt="Schematic" width="300"/>
 
 
 ## Firmware Overview
